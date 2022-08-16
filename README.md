@@ -1,6 +1,6 @@
 # flutter_api_integration
 
-A new Flutter project.
+API URL = https://jsonplaceholder.typicode.com/comments
 
 ## Getting Started
 
